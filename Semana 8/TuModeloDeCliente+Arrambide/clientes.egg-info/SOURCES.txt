@@ -1,0 +1,10 @@
+setup.py
+clientes/IngresarUsuario.py
+clientes/__init__.py
+clientes/clientes.py
+clientes/hola mundo.py
+clientes/usandocliente.py
+clientes.egg-info/PKG-INFO
+clientes.egg-info/SOURCES.txt
+clientes.egg-info/dependency_links.txt
+clientes.egg-info/top_level.txt
